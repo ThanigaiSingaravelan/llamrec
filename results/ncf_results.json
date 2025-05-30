@@ -1,0 +1,1865 @@
+{
+  "model_info": {
+    "type": "Neural Collaborative Filtering",
+    "domain": "Books",
+    "users_trained": 206,
+    "items_trained": 283,
+    "recommendations_generated": 206
+  },
+  "results": [
+    {
+      "user_id": "A17FLA8HQOFVIG",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Haunting of Hill House - Neural CF recommendation\n2. The Hound of the Baskervilles (Puffin Classics) - Neural CF recommendation\n3. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.697156"
+    },
+    {
+      "user_id": "A3R8PXSFGY9MC2",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. Reconstructing Amelia: A Novel - Neural CF recommendation\n2. The Call of the Wild with related readings - Neural CF recommendation\n3. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.697156"
+    },
+    {
+      "user_id": "A21VR7M8O55EF6",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Haunting of Hill House - Neural CF recommendation\n2. The Hound of the Baskervilles (Puffin Classics) - Neural CF recommendation\n3. In Cold Blood - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.697156"
+    },
+    {
+      "user_id": "A3IKBHODOTYYHM",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Haunting of Hill House - Neural CF recommendation\n2. The Hound of the Baskervilles (Puffin Classics) - Neural CF recommendation\n3. Beautiful Ruins: A Novel - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.697156"
+    },
+    {
+      "user_id": "AGEIT17HENDIS",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Call of the Wild with related readings - Neural CF recommendation\n2. Frankenstein (Collins Classics) - Neural CF recommendation\n3. The Haunting of Hill House - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.697156"
+    },
+    {
+      "user_id": "A3QZCA4LTTVGAD",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Call of the Wild with related readings - Neural CF recommendation\n2. The Haunting of Hill House - Neural CF recommendation\n3. Magician's Nephew - Folio Society Hardcover - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.697156"
+    },
+    {
+      "user_id": "A1RECBDKHVOJMW",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Jungle Book (Collins Classics) - Neural CF recommendation\n2. The Call of the Wild with related readings - Neural CF recommendation\n3. Reconstructing Amelia: A Novel - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.697156"
+    },
+    {
+      "user_id": "A1CYRTQ04LYI55",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Call of the Wild with related readings - Neural CF recommendation\n2. The Haunting of Hill House - Neural CF recommendation\n3. Reconstructing Amelia: A Novel - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.697156"
+    },
+    {
+      "user_id": "AHCVWPLA1O4X8",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Haunting of Hill House - Neural CF recommendation\n2. Frankenstein (Collins Classics) - Neural CF recommendation\n3. Fast Food Nation: The Dark Side of the All-American Meal - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.697156"
+    },
+    {
+      "user_id": "A39NS429FYXAD1",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Call of the Wild with related readings - Neural CF recommendation\n2. In Cold Blood - Neural CF recommendation\n3. The Haunting of Hill House - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.710157"
+    },
+    {
+      "user_id": "A280GY5UVUS2QH",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Haunting of Hill House - Neural CF recommendation\n2. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation\n3. Reconstructing Amelia: A Novel - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.710157"
+    },
+    {
+      "user_id": "A35YWA2V4QHOJ3",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Hound of the Baskervilles (Puffin Classics) - Neural CF recommendation\n2. The Haunting of Hill House - Neural CF recommendation\n3. State of Wonder - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.710157"
+    },
+    {
+      "user_id": "A2DCS39GFBJV24",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Call of the Wild with related readings - Neural CF recommendation\n2. The Catcher in the Rye (Modern Classics S.) - Neural CF recommendation\n3. The Haunting of Hill House - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.710157"
+    },
+    {
+      "user_id": "A1EBV706Z2AM38",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Haunting of Hill House - Neural CF recommendation\n2. Reconstructing Amelia: A Novel - Neural CF recommendation\n3. A confederacy of dunces - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.710157"
+    },
+    {
+      "user_id": "A13G1TKIKHGV3F",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Call of the Wild with related readings - Neural CF recommendation\n2. The Haunting of Hill House - Neural CF recommendation\n3. In Cold Blood - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.710157"
+    },
+    {
+      "user_id": "A3UDYY6L2NH3JS",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation\n2. Reconstructing Amelia: A Novel - Neural CF recommendation\n3. The Haunting of Hill House - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.710157"
+    },
+    {
+      "user_id": "A3T0OTH5072YRE",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Haunting of Hill House - Neural CF recommendation\n2. Reconstructing Amelia: A Novel - Neural CF recommendation\n3. The Hobbit - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.710157"
+    },
+    {
+      "user_id": "A3Q04XXGGED746",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. Fast Food Nation: The Dark Side of the All-American Meal - Neural CF recommendation\n2. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation\n3. The Haunting of Hill House - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.710157"
+    },
+    {
+      "user_id": "A2EDZH51XHFA9B",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. In Cold Blood - Neural CF recommendation\n2. Frankenstein (Collins Classics) - Neural CF recommendation\n3. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.710157"
+    },
+    {
+      "user_id": "A1D2C0WDCSHUWZ",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. A confederacy of dunces - Neural CF recommendation\n2. The Corrections - Neural CF recommendation\n3. Frankenstein (Collins Classics) - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.710157"
+    },
+    {
+      "user_id": "A2FTHCGH06O4Y5",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. Frankenstein (Collins Classics) - Neural CF recommendation\n2. The Corrections - Neural CF recommendation\n3. The Haunting of Hill House - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.710157"
+    },
+    {
+      "user_id": "A2KWQ64TRHB3YH",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. Wolf Hall (Thomas Cromwell) - Neural CF recommendation\n2. The Call of the Wild with related readings - Neural CF recommendation\n3. A confederacy of dunces - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.710157"
+    },
+    {
+      "user_id": "A1JH5J1KQAUBMP",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. In Cold Blood - Neural CF recommendation\n2. The Haunting of Hill House - Neural CF recommendation\n3. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.725987"
+    },
+    {
+      "user_id": "A126KX6FVI4T66",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Haunting of Hill House - Neural CF recommendation\n2. Reconstructing Amelia: A Novel - Neural CF recommendation\n3. The Call of the Wild with related readings - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.725987"
+    },
+    {
+      "user_id": "A3KEZLJ59C1JVH",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Haunting of Hill House - Neural CF recommendation\n2. The Hound of the Baskervilles (Puffin Classics) - Neural CF recommendation\n3. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.725987"
+    },
+    {
+      "user_id": "ADB8XCKNSDY5Z",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation\n2. The Haunting of Hill House - Neural CF recommendation\n3. For Whom the Bell Tolls - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.725987"
+    },
+    {
+      "user_id": "A26BWRBPP4V2WF",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Haunting of Hill House - Neural CF recommendation\n2. The Call of the Wild with related readings - Neural CF recommendation\n3. For Whom the Bell Tolls - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.725987"
+    },
+    {
+      "user_id": "A4FX5YCJA630V",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Hound of the Baskervilles (Puffin Classics) - Neural CF recommendation\n2. Fast Food Nation: The Dark Side of the All-American Meal - Neural CF recommendation\n3. For Whom the Bell Tolls - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.725987"
+    },
+    {
+      "user_id": "A37XGUQ1VH0XM6",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. A confederacy of dunces - Neural CF recommendation\n2. Dead Wrong (Joanna Brady Mysteries, Book 12) - Neural CF recommendation\n3. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.725987"
+    },
+    {
+      "user_id": "A3UPYGJKZ0XTU4",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Call of the Wild with related readings - Neural CF recommendation\n2. In Cold Blood - Neural CF recommendation\n3. A Tale of Two Cities (Collins Classics) - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.725987"
+    },
+    {
+      "user_id": "A96K1ZGW56S2I",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Call of the Wild with related readings - Neural CF recommendation\n2. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation\n3. The Hound of the Baskervilles (Puffin Classics) - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.725987"
+    },
+    {
+      "user_id": "A1OX82JPAQLL60",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Hound of the Baskervilles (Puffin Classics) - Neural CF recommendation\n2. For Whom the Bell Tolls - Neural CF recommendation\n3. Frankenstein (Collins Classics) - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.725987"
+    },
+    {
+      "user_id": "A2VE83MZF98ITY",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Haunting of Hill House - Neural CF recommendation\n2. The Hobbit - Neural CF recommendation\n3. The Hound of the Baskervilles (Puffin Classics) - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.736923"
+    },
+    {
+      "user_id": "A3GA09FYFKL4EY",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation\n2. The Call of the Wild with related readings - Neural CF recommendation\n3. The Haunting of Hill House - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.736923"
+    },
+    {
+      "user_id": "A37PV5GMP2ILJC",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Haunting of Hill House - Neural CF recommendation\n2. For Whom the Bell Tolls - Neural CF recommendation\n3. The Call of the Wild with related readings - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.736923"
+    },
+    {
+      "user_id": "A2I6MHMAZZDCRX",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Haunting of Hill House - Neural CF recommendation\n2. The Hound of the Baskervilles (Puffin Classics) - Neural CF recommendation\n3. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.736923"
+    },
+    {
+      "user_id": "A1IU7S4HCK1XK0",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. In Cold Blood - Neural CF recommendation\n2. The Haunting of Hill House - Neural CF recommendation\n3. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.736923"
+    },
+    {
+      "user_id": "A281NPSIMI1C2R",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Call of the Wild with related readings - Neural CF recommendation\n2. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation\n3. The Haunting of Hill House - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.741879"
+    },
+    {
+      "user_id": "A1L43KWWR05PCS",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. Frankenstein (Collins Classics) - Neural CF recommendation\n2. Reconstructing Amelia: A Novel - Neural CF recommendation\n3. The Haunting of Hill House - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.741879"
+    },
+    {
+      "user_id": "A2NBOL825B93OM",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation\n2. The Haunting of Hill House - Neural CF recommendation\n3. The Hound of the Baskervilles (Puffin Classics) - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.741879"
+    },
+    {
+      "user_id": "ANEDXRFDZDL18",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. Frankenstein (Collins Classics) - Neural CF recommendation\n2. Watership Down (Perennial Classics) - Neural CF recommendation\n3. Reconstructing Amelia: A Novel - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.741879"
+    },
+    {
+      "user_id": "AK7D1BHZOSOL1",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation\n2. Fast Food Nation: The Dark Side of the All-American Meal - Neural CF recommendation\n3. Reconstructing Amelia: A Novel - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.741879"
+    },
+    {
+      "user_id": "A1CDNTB7377YH2",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Call of the Wild with related readings - Neural CF recommendation\n2. The Haunting of Hill House - Neural CF recommendation\n3. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.741879"
+    },
+    {
+      "user_id": "A1B05INWIDZ74O",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Call of the Wild with related readings - Neural CF recommendation\n2. The Haunting of Hill House - Neural CF recommendation\n3. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.741879"
+    },
+    {
+      "user_id": "A1JV4QKTEB7QBL",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Call of the Wild with related readings - Neural CF recommendation\n2. The Haunting of Hill House - Neural CF recommendation\n3. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.741879"
+    },
+    {
+      "user_id": "A1VHK9A4VLJTHC",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation\n2. The Haunting of Hill House - Neural CF recommendation\n3. Frankenstein (Collins Classics) - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.741879"
+    },
+    {
+      "user_id": "A3GKPMHV4U64IY",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. Frankenstein (Collins Classics) - Neural CF recommendation\n2. The Haunting of Hill House - Neural CF recommendation\n3. Reconstructing Amelia: A Novel - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.741879"
+    },
+    {
+      "user_id": "A2F3M93RRLFQNJ",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Call of the Wild with related readings - Neural CF recommendation\n2. Reconstructing Amelia: A Novel - Neural CF recommendation\n3. The Haunting of Hill House - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.741879"
+    },
+    {
+      "user_id": "A33L7G4E8CID3",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Haunting of Hill House - Neural CF recommendation\n2. The Call of the Wild with related readings - Neural CF recommendation\n3. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.741879"
+    },
+    {
+      "user_id": "A2NJO6YE954DBH",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. Reconstructing Amelia: A Novel - Neural CF recommendation\n2. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation\n3. The Call of the Wild with related readings - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.741879"
+    },
+    {
+      "user_id": "A15Q7ABIU9O9YZ",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. Reconstructing Amelia: A Novel - Neural CF recommendation\n2. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation\n3. The Call of the Wild with related readings - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.741879"
+    },
+    {
+      "user_id": "A2FEGRJQNU51P9",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. A confederacy of dunces - Neural CF recommendation\n2. Reconstructing Amelia: A Novel - Neural CF recommendation\n3. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.757560"
+    },
+    {
+      "user_id": "AIIR8E34EDKCQ",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation\n2. The Haunting of Hill House - Neural CF recommendation\n3. The Catcher in the Rye (Modern Classics S.) - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.757560"
+    },
+    {
+      "user_id": "A39AWL2FKWDFK6",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Call of the Wild with related readings - Neural CF recommendation\n2. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation\n3. The Haunting of Hill House - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.757560"
+    },
+    {
+      "user_id": "A23GFTVIETX7DS",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. For Whom the Bell Tolls - Neural CF recommendation\n2. The Hound of the Baskervilles (Puffin Classics) - Neural CF recommendation\n3. The Haunting of Hill House - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.757560"
+    },
+    {
+      "user_id": "A3OEECMCM2T4KQ",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation\n2. The Haunting of Hill House - Neural CF recommendation\n3. Frankenstein (Collins Classics) - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.757560"
+    },
+    {
+      "user_id": "A9LAPV8XNKZVZ",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Haunting of Hill House - Neural CF recommendation\n2. Frankenstein (Collins Classics) - Neural CF recommendation\n3. The Hound of the Baskervilles (Puffin Classics) - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.757560"
+    },
+    {
+      "user_id": "A1CHM200OEN65X",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. Frankenstein (Collins Classics) - Neural CF recommendation\n2. For Whom the Bell Tolls - Neural CF recommendation\n3. The Haunting of Hill House - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.757560"
+    },
+    {
+      "user_id": "A2XRMQA6PJ5ZJ8",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation\n2. The Haunting of Hill House - Neural CF recommendation\n3. Frankenstein (Collins Classics) - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.757560"
+    },
+    {
+      "user_id": "A8F2AZWB20X1H",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Haunting of Hill House - Neural CF recommendation\n2. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation\n3. The Call of the Wild with related readings - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.757560"
+    },
+    {
+      "user_id": "A20EEWWSFMZ1PN",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation\n2. Reconstructing Amelia: A Novel - Neural CF recommendation\n3. The Call of the Wild with related readings - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.757560"
+    },
+    {
+      "user_id": "AMKZHBOK7VMQR",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Haunting of Hill House - Neural CF recommendation\n2. Three Cups of Tea - Neural CF recommendation\n3. In Cold Blood - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.757560"
+    },
+    {
+      "user_id": "AODKUG6FAKD2Z",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation\n2. The Haunting of Hill House - Neural CF recommendation\n3. For Whom the Bell Tolls - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.757560"
+    },
+    {
+      "user_id": "A2XCLJRGFANRC",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation\n2. The Haunting of Hill House - Neural CF recommendation\n3. Frankenstein (Collins Classics) - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.757560"
+    },
+    {
+      "user_id": "A3SOV9HFM5H9T1",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Haunting of Hill House - Neural CF recommendation\n2. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation\n3. The Catcher in the Rye (Modern Classics S.) - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.757560"
+    },
+    {
+      "user_id": "A30JPZ9TZ7I61U",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Call of the Wild with related readings - Neural CF recommendation\n2. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation\n3. The Haunting of Hill House - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.757560"
+    },
+    {
+      "user_id": "A2WSI8HOWHFDOT",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation\n2. For Whom the Bell Tolls - Neural CF recommendation\n3. The Haunting of Hill House - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.757560"
+    },
+    {
+      "user_id": "A2TXR85WQLE32N",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Thin Man (Penguin Red Classics) - Neural CF recommendation\n2. The Haunting of Hill House - Neural CF recommendation\n3. Reconstructing Amelia: A Novel - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.757560"
+    },
+    {
+      "user_id": "A1OYW08VVPMP3Q",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Hound of the Baskervilles (Puffin Classics) - Neural CF recommendation\n2. A Tale of Two Cities (Collins Classics) - Neural CF recommendation\n3. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.773390"
+    },
+    {
+      "user_id": "A1AFXJ8U72MD6L",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Haunting of Hill House - Neural CF recommendation\n2. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation\n3. For Whom the Bell Tolls - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.773390"
+    },
+    {
+      "user_id": "A2PR6NXG0PA3KY",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation\n2. The Haunting of Hill House - Neural CF recommendation\n3. For Whom the Bell Tolls - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.773390"
+    },
+    {
+      "user_id": "AUM3YMZ0YRJE0",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Haunting of Hill House - Neural CF recommendation\n2. The Hound of the Baskervilles (Puffin Classics) - Neural CF recommendation\n3. For Whom the Bell Tolls - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.773390"
+    },
+    {
+      "user_id": "A1OB5L3WMHJAD9",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Haunting of Hill House - Neural CF recommendation\n2. Frankenstein (Collins Classics) - Neural CF recommendation\n3. The Hound of the Baskervilles (Puffin Classics) - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.773390"
+    },
+    {
+      "user_id": "A2PNTEDGMOLMOY",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Haunting of Hill House - Neural CF recommendation\n2. The Catcher in the Rye (Modern Classics S.) - Neural CF recommendation\n3. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.773390"
+    },
+    {
+      "user_id": "A1BA72K4VK1UN1",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Haunting of Hill House - Neural CF recommendation\n2. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation\n3. The Call of the Wild with related readings - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.773390"
+    },
+    {
+      "user_id": "A303U1MOXG5R1F",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation\n2. Fast Food Nation: The Dark Side of the All-American Meal - Neural CF recommendation\n3. The Haunting of Hill House - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.773390"
+    },
+    {
+      "user_id": "AUHG8KSHI529U",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Haunting of Hill House - Neural CF recommendation\n2. For Whom the Bell Tolls - Neural CF recommendation\n3. Fast Food Nation: The Dark Side of the All-American Meal - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.773390"
+    },
+    {
+      "user_id": "A1G9FX1KV45N41",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. Watership Down (Perennial Classics) - Neural CF recommendation\n2. Reconstructing Amelia: A Novel - Neural CF recommendation\n3. The Call of the Wild with related readings - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.773390"
+    },
+    {
+      "user_id": "A1LVZOK9F7K4CN",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation\n2. The Call of the Wild with related readings - Neural CF recommendation\n3. Watership Down (Perennial Classics) - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.773390"
+    },
+    {
+      "user_id": "A25KKXUQQ0OLWB",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. For Whom the Bell Tolls - Neural CF recommendation\n2. Reconstructing Amelia: A Novel - Neural CF recommendation\n3. Watership Down (Perennial Classics) - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.773390"
+    },
+    {
+      "user_id": "A3KF4IP2MUS8QQ",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Haunting of Hill House - Neural CF recommendation\n2. The Hound of the Baskervilles (Puffin Classics) - Neural CF recommendation\n3. Frankenstein (Collins Classics) - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.773390"
+    },
+    {
+      "user_id": "A1CQGAPQMN41LV",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Haunting of Hill House - Neural CF recommendation\n2. Reconstructing Amelia: A Novel - Neural CF recommendation\n3. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.773390"
+    },
+    {
+      "user_id": "A2GBJQ9THOYDAJ",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Call of the Wild with related readings - Neural CF recommendation\n2. Wolf Hall (Thomas Cromwell) - Neural CF recommendation\n3. The Son of Neptune (Heroes of Olympus Book 2) - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.773390"
+    },
+    {
+      "user_id": "ACTEAPEPGDV8G",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Haunting of Hill House - Neural CF recommendation\n2. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation\n3. Frankenstein (Collins Classics) - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.773390"
+    },
+    {
+      "user_id": "A33CLVW2K7SL1P",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Haunting of Hill House - Neural CF recommendation\n2. Frankenstein (Collins Classics) - Neural CF recommendation\n3. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.789405"
+    },
+    {
+      "user_id": "A16QODENBJVUI1",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Haunting of Hill House - Neural CF recommendation\n2. The Hound of the Baskervilles (Puffin Classics) - Neural CF recommendation\n3. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.789405"
+    },
+    {
+      "user_id": "A2D9IEFJGB483Q",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation\n2. The Haunting of Hill House - Neural CF recommendation\n3. Reconstructing Amelia: A Novel - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.789405"
+    },
+    {
+      "user_id": "AEQFYOI6YJ83Z",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Haunting of Hill House - Neural CF recommendation\n2. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation\n3. The Hound of the Baskervilles (Puffin Classics) - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.789405"
+    },
+    {
+      "user_id": "A1GQAKL9CGQLP1",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation\n2. The Haunting of Hill House - Neural CF recommendation\n3. SuperFreakonomics CD: Global Cooling, Patriotic Prostitutes, and Why Suicide Bombers Should Buy Life Insurance - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.789405"
+    },
+    {
+      "user_id": "A1POFVVXUZR3IQ",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation\n2. The Haunting of Hill House - Neural CF recommendation\n3. Fast Food Nation: The Dark Side of the All-American Meal - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.789405"
+    },
+    {
+      "user_id": "A19XE6G6NDZFPS",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation\n2. The Haunting of Hill House - Neural CF recommendation\n3. For Whom the Bell Tolls - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.789405"
+    },
+    {
+      "user_id": "A3NQU1649SH0Q4",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation\n2. The Haunting of Hill House - Neural CF recommendation\n3. Frankenstein (Collins Classics) - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.789405"
+    },
+    {
+      "user_id": "A1IOJE0W1NXOSE",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Haunting of Hill House - Neural CF recommendation\n2. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation\n3. The Hound of the Baskervilles (Puffin Classics) - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.789405"
+    },
+    {
+      "user_id": "AK0CENM3LUM28",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Haunting of Hill House - Neural CF recommendation\n2. The Corrections - Neural CF recommendation\n3. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.798461"
+    },
+    {
+      "user_id": "A1ER5AYS3FQ9O3",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Haunting of Hill House - Neural CF recommendation\n2. Reconstructing Amelia: A Novel - Neural CF recommendation\n3. Frankenstein (Collins Classics) - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.800100"
+    },
+    {
+      "user_id": "A22TZUXUKA11SQ",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Corrections - Neural CF recommendation\n2. The Haunting of Hill House - Neural CF recommendation\n3. The Call of the Wild with related readings - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.800100"
+    },
+    {
+      "user_id": "AK7CAW3N1XZV6",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation\n2. The Haunting of Hill House - Neural CF recommendation\n3. Fast Food Nation: The Dark Side of the All-American Meal - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.800100"
+    },
+    {
+      "user_id": "A1T17LMQABMBN5",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation\n2. The Haunting of Hill House - Neural CF recommendation\n3. The Hound of the Baskervilles (Puffin Classics) - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.800100"
+    },
+    {
+      "user_id": "A356TJCTCLDN89",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. Reconstructing Amelia: A Novel - Neural CF recommendation\n2. Three Cups of Tea - Neural CF recommendation\n3. Frankenstein (Collins Classics) - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.803967"
+    },
+    {
+      "user_id": "A2XNOB1T796Y6B",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Haunting of Hill House - Neural CF recommendation\n2. Frankenstein (Collins Classics) - Neural CF recommendation\n3. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.803967"
+    },
+    {
+      "user_id": "A1PASRZ81DY9C",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Haunting of Hill House - Neural CF recommendation\n2. Reconstructing Amelia: A Novel - Neural CF recommendation\n3. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.805440"
+    },
+    {
+      "user_id": "A319KYEIAZ3SON",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Haunting of Hill House - Neural CF recommendation\n2. Reconstructing Amelia: A Novel - Neural CF recommendation\n3. The Call of the Wild with related readings - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.807455"
+    },
+    {
+      "user_id": "ACIBQ6BQ6AWEV",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation\n2. Frankenstein (Collins Classics) - Neural CF recommendation\n3. Fast Food Nation: The Dark Side of the All-American Meal - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.807455"
+    },
+    {
+      "user_id": "A2VP7JOT3K7PFM",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. For Whom the Bell Tolls - Neural CF recommendation\n2. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation\n3. Fast Food Nation: The Dark Side of the All-American Meal - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.808834"
+    },
+    {
+      "user_id": "A3NIQK6ZLYEP1L",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Hound of the Baskervilles (Puffin Classics) - Neural CF recommendation\n2. The Corrections - Neural CF recommendation\n3. The Haunting of Hill House - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.809842"
+    },
+    {
+      "user_id": "A1ZOF747O5EB6R",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation\n2. Wolf Hall (Thomas Cromwell) - Neural CF recommendation\n3. The Haunting of Hill House - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.810842"
+    },
+    {
+      "user_id": "AIWDJ3S85O10Q",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Haunting of Hill House - Neural CF recommendation\n2. The Call of the Wild with related readings - Neural CF recommendation\n3. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.810842"
+    },
+    {
+      "user_id": "AY8FI73B2HWXB",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Haunting of Hill House - Neural CF recommendation\n2. The Hobbit - Neural CF recommendation\n3. The Call of the Wild with related readings - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.810842"
+    },
+    {
+      "user_id": "A1K3NQAO49LXL2",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Call of the Wild with related readings - Neural CF recommendation\n2. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation\n3. For Whom the Bell Tolls - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.810842"
+    },
+    {
+      "user_id": "A1UFV4HALV2OXW",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation\n2. In Cold Blood - Neural CF recommendation\n3. For Whom the Bell Tolls - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.810842"
+    },
+    {
+      "user_id": "AS6SH2JM2YY3H",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Haunting of Hill House - Neural CF recommendation\n2. Frankenstein (Collins Classics) - Neural CF recommendation\n3. For Whom the Bell Tolls - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.810842"
+    },
+    {
+      "user_id": "A2G8D1VN3MVB6F",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Haunting of Hill House - Neural CF recommendation\n2. For Whom the Bell Tolls - Neural CF recommendation\n3. Reconstructing Amelia: A Novel - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.810842"
+    },
+    {
+      "user_id": "A2QHM5HBSIXRL4",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Call of the Wild with related readings - Neural CF recommendation\n2. For Whom the Bell Tolls - Neural CF recommendation\n3. A confederacy of dunces - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.810842"
+    },
+    {
+      "user_id": "A13E0ARAXI6KJW",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation\n2. The Haunting of Hill House - Neural CF recommendation\n3. In Cold Blood - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.810842"
+    },
+    {
+      "user_id": "A2ODBHT4URXVXQ",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Haunting of Hill House - Neural CF recommendation\n2. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation\n3. Beautiful Ruins: A Novel - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.810842"
+    },
+    {
+      "user_id": "A3MV1KKHX51FYT",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Haunting of Hill House - Neural CF recommendation\n2. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation\n3. Frankenstein (Collins Classics) - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.810842"
+    },
+    {
+      "user_id": "A2BE3MTUT0YBF0",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation\n2. The Call of the Wild with related readings - Neural CF recommendation\n3. The Haunting of Hill House - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.810842"
+    },
+    {
+      "user_id": "ALR35EFI69S5R",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Call of the Wild with related readings - Neural CF recommendation\n2. In Cold Blood - Neural CF recommendation\n3. Dead Wrong (Joanna Brady Mysteries, Book 12) - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.810842"
+    },
+    {
+      "user_id": "A331OF34UX4Y1K",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Haunting of Hill House - Neural CF recommendation\n2. The Hound of the Baskervilles (Puffin Classics) - Neural CF recommendation\n3. For Whom the Bell Tolls - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.810842"
+    },
+    {
+      "user_id": "A1U360OMVQRPUB",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation\n2. A confederacy of dunces - Neural CF recommendation\n3. The Son of Neptune (Heroes of Olympus Book 2) - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.810842"
+    },
+    {
+      "user_id": "AHUT55E980RDR",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Haunting of Hill House - Neural CF recommendation\n2. The Call of the Wild with related readings - Neural CF recommendation\n3. Frankenstein (Collins Classics) - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.810842"
+    },
+    {
+      "user_id": "A2GPEV42IO41CI",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. Frankenstein (Collins Classics) - Neural CF recommendation\n2. The Hound of the Baskervilles (Puffin Classics) - Neural CF recommendation\n3. For Whom the Bell Tolls - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.826933"
+    },
+    {
+      "user_id": "A3VIOCJZ22JZXT",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Haunting of Hill House - Neural CF recommendation\n2. The Call of the Wild with related readings - Neural CF recommendation\n3. Reconstructing Amelia: A Novel - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.826933"
+    },
+    {
+      "user_id": "A19OQ7LWE2YJL3",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Call of the Wild with related readings - Neural CF recommendation\n2. The Haunting of Hill House - Neural CF recommendation\n3. In Cold Blood - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.826933"
+    },
+    {
+      "user_id": "ABN5K7K1TM1QA",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. Frankenstein (Collins Classics) - Neural CF recommendation\n2. The Hound of the Baskervilles (Puffin Classics) - Neural CF recommendation\n3. The Haunting of Hill House - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.826933"
+    },
+    {
+      "user_id": "AL5OEDM8TPTKV",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Haunting of Hill House - Neural CF recommendation\n2. The Hound of the Baskervilles (Puffin Classics) - Neural CF recommendation\n3. The Hobbit - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.826933"
+    },
+    {
+      "user_id": "A2WZ1B92F81LJJ",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Haunting of Hill House - Neural CF recommendation\n2. The Hound of the Baskervilles (Puffin Classics) - Neural CF recommendation\n3. Frankenstein (Collins Classics) - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.826933"
+    },
+    {
+      "user_id": "A328S9RN3U5M68",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Haunting of Hill House - Neural CF recommendation\n2. The Call of the Wild with related readings - Neural CF recommendation\n3. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.826933"
+    },
+    {
+      "user_id": "A2VJ80PM1G00QV",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation\n2. The Haunting of Hill House - Neural CF recommendation\n3. Watership Down (Perennial Classics) - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.826933"
+    },
+    {
+      "user_id": "A30TK6U7DNS82R",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Haunting of Hill House - Neural CF recommendation\n2. Reconstructing Amelia: A Novel - Neural CF recommendation\n3. For Whom the Bell Tolls - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.826933"
+    },
+    {
+      "user_id": "A3P9D22KDEXVMN",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation\n2. Reconstructing Amelia: A Novel - Neural CF recommendation\n3. The Call of the Wild with related readings - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.826933"
+    },
+    {
+      "user_id": "A2RDR5G65D9H84",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Haunting of Hill House - Neural CF recommendation\n2. The Hound of the Baskervilles (Puffin Classics) - Neural CF recommendation\n3. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.837168"
+    },
+    {
+      "user_id": "A4UKBG3M5U5TI",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Haunting of Hill House - Neural CF recommendation\n2. Reconstructing Amelia: A Novel - Neural CF recommendation\n3. Frankenstein (Collins Classics) - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.837168"
+    },
+    {
+      "user_id": "AGKPTMTR3UX1R",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Haunting of Hill House - Neural CF recommendation\n2. Frankenstein (Collins Classics) - Neural CF recommendation\n3. The Corrections - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.837168"
+    },
+    {
+      "user_id": "A2TUA4VWCMNXI",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Haunting of Hill House - Neural CF recommendation\n2. The Call of the Wild with related readings - Neural CF recommendation\n3. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.837168"
+    },
+    {
+      "user_id": "AQZH7YTWQPOBE",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Call of the Wild with related readings - Neural CF recommendation\n2. Reconstructing Amelia: A Novel - Neural CF recommendation\n3. Three Cups of Tea - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.837168"
+    },
+    {
+      "user_id": "A30H2335OM7RD6",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Haunting of Hill House - Neural CF recommendation\n2. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation\n3. The Thin Man (Penguin Red Classics) - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.837168"
+    },
+    {
+      "user_id": "A2AOZQ3WTNVVOK",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. Frankenstein (Collins Classics) - Neural CF recommendation\n2. The Haunting of Hill House - Neural CF recommendation\n3. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.842639"
+    },
+    {
+      "user_id": "A1DK5AZMXS1QA3",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation\n2. The Haunting of Hill House - Neural CF recommendation\n3. Reconstructing Amelia: A Novel - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.842639"
+    },
+    {
+      "user_id": "A2VMT89TCSF105",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. For Whom the Bell Tolls - Neural CF recommendation\n2. Dead Wrong (Joanna Brady Mysteries, Book 12) - Neural CF recommendation\n3. Fast Food Nation: The Dark Side of the All-American Meal - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.842639"
+    },
+    {
+      "user_id": "A28WJUJF6D2ULA",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Haunting of Hill House - Neural CF recommendation\n2. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation\n3. For Whom the Bell Tolls - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.842639"
+    },
+    {
+      "user_id": "A20IIR0422G3A5",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Call of the Wild with related readings - Neural CF recommendation\n2. For Whom the Bell Tolls - Neural CF recommendation\n3. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.842639"
+    },
+    {
+      "user_id": "A34PAZQ73SL163",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. Frankenstein (Collins Classics) - Neural CF recommendation\n2. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation\n3. A Tale of Two Cities (Collins Classics) - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.842639"
+    },
+    {
+      "user_id": "A2C27IQUH9N1Z",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Call of the Wild with related readings - Neural CF recommendation\n2. The Haunting of Hill House - Neural CF recommendation\n3. The Son of Neptune (Heroes of Olympus Book 2) - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.842639"
+    },
+    {
+      "user_id": "AXSH6O4OP5L4M",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Haunting of Hill House - Neural CF recommendation\n2. Reconstructing Amelia: A Novel - Neural CF recommendation\n3. Frankenstein (Collins Classics) - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.842639"
+    },
+    {
+      "user_id": "A3FVAWZNKW9GX",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Haunting of Hill House - Neural CF recommendation\n2. The Hound of the Baskervilles (Puffin Classics) - Neural CF recommendation\n3. Watership Down (Perennial Classics) - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.842639"
+    },
+    {
+      "user_id": "A1M4NJYP0WNL8Q",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation\n2. Reconstructing Amelia: A Novel - Neural CF recommendation\n3. For Whom the Bell Tolls - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.842639"
+    },
+    {
+      "user_id": "A3V6Z4RCDGRC44",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Haunting of Hill House - Neural CF recommendation\n2. The Hound of the Baskervilles (Puffin Classics) - Neural CF recommendation\n3. Reconstructing Amelia: A Novel - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.842639"
+    },
+    {
+      "user_id": "A22RY8N8CNDF3A",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation\n2. The Call of the Wild with related readings - Neural CF recommendation\n3. Fast Food Nation: The Dark Side of the All-American Meal - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.842639"
+    },
+    {
+      "user_id": "A2F3SXHT6RBV81",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Haunting of Hill House - Neural CF recommendation\n2. The Hound of the Baskervilles (Puffin Classics) - Neural CF recommendation\n3. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.842639"
+    },
+    {
+      "user_id": "A1R602SXNGOMJ4",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Haunting of Hill House - Neural CF recommendation\n2. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation\n3. Reconstructing Amelia: A Novel - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.842639"
+    },
+    {
+      "user_id": "A2DSXA1E02C86D",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. For Whom the Bell Tolls - Neural CF recommendation\n2. The Hound of the Baskervilles (Puffin Classics) - Neural CF recommendation\n3. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.842639"
+    },
+    {
+      "user_id": "A1RPTVW5VEOSI",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Call of the Wild with related readings - Neural CF recommendation\n2. The Haunting of Hill House - Neural CF recommendation\n3. Watership Down (Perennial Classics) - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.842639"
+    },
+    {
+      "user_id": "A2EBLL2OYEQJN9",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Haunting of Hill House - Neural CF recommendation\n2. The Hobbit - Neural CF recommendation\n3. The Call of the Wild with related readings - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.842639"
+    },
+    {
+      "user_id": "ALN0TTRTLHA4E",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Haunting of Hill House - Neural CF recommendation\n2. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation\n3. The Call of the Wild with related readings - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.858386"
+    },
+    {
+      "user_id": "A1NPNGWBVD9AK3",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Haunting of Hill House - Neural CF recommendation\n2. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation\n3. The Call of the Wild with related readings - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.858386"
+    },
+    {
+      "user_id": "A1G56KHOUOFWDW",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. For Whom the Bell Tolls - Neural CF recommendation\n2. Claudius The God - Neural CF recommendation\n3. SuperFreakonomics CD: Global Cooling, Patriotic Prostitutes, and Why Suicide Bombers Should Buy Life Insurance - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.858386"
+    },
+    {
+      "user_id": "A140XH16IKR4B0",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation\n2. The Call of the Wild with related readings - Neural CF recommendation\n3. The Haunting of Hill House - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.858386"
+    },
+    {
+      "user_id": "A2Z7TU96G2WB9B",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Haunting of Hill House - Neural CF recommendation\n2. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation\n3. Fast Food Nation: The Dark Side of the All-American Meal - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.858386"
+    },
+    {
+      "user_id": "AF3X7J0XC391L",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. Wolf Hall (Thomas Cromwell) - Neural CF recommendation\n2. The Corrections - Neural CF recommendation\n3. The Art of Racing in the Rain - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.858386"
+    },
+    {
+      "user_id": "AUTBHG6070SL4",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Call of the Wild with related readings - Neural CF recommendation\n2. For Whom the Bell Tolls - Neural CF recommendation\n3. Emma (Collins Classics) - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.858386"
+    },
+    {
+      "user_id": "AFJFXN42RZ3G2",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. Claudius The God - Neural CF recommendation\n2. Fast Food Nation: The Dark Side of the All-American Meal - Neural CF recommendation\n3. For Whom the Bell Tolls - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.858386"
+    },
+    {
+      "user_id": "A106016KSI0YQ",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. Frankenstein (Collins Classics) - Neural CF recommendation\n2. A confederacy of dunces - Neural CF recommendation\n3. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.858386"
+    },
+    {
+      "user_id": "A3NLJZI5NEOT0K",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Haunting of Hill House - Neural CF recommendation\n2. The Corrections - Neural CF recommendation\n3. A confederacy of dunces - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.858386"
+    },
+    {
+      "user_id": "A3NH7PYU4AD5GA",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Haunting of Hill House - Neural CF recommendation\n2. Reconstructing Amelia: A Novel - Neural CF recommendation\n3. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.858386"
+    },
+    {
+      "user_id": "A9I40WFF40R4",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Haunting of Hill House - Neural CF recommendation\n2. In Cold Blood - Neural CF recommendation\n3. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.858386"
+    },
+    {
+      "user_id": "AQE41QO3NEUMW",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation\n2. The Haunting of Hill House - Neural CF recommendation\n3. The Hound of the Baskervilles (Puffin Classics) - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.858386"
+    },
+    {
+      "user_id": "A3O2RCKAMSE9X7",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Call of the Wild with related readings - Neural CF recommendation\n2. The Catcher in the Rye (Modern Classics S.) - Neural CF recommendation\n3. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.858386"
+    },
+    {
+      "user_id": "A2S166WSCFIFP5",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Haunting of Hill House - Neural CF recommendation\n2. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation\n3. Frankenstein (Collins Classics) - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.871068"
+    },
+    {
+      "user_id": "A2V3P1XE33NYC3",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Hound of the Baskervilles (Puffin Classics) - Neural CF recommendation\n2. Frankenstein (Collins Classics) - Neural CF recommendation\n3. The Haunting of Hill House - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.871068"
+    },
+    {
+      "user_id": "A2SRZQU1SZG4RR",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Haunting of Hill House - Neural CF recommendation\n2. The Call of the Wild with related readings - Neural CF recommendation\n3. Three Cups of Tea - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.871068"
+    },
+    {
+      "user_id": "A11YV6VC51HJTV",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. Frankenstein (Collins Classics) - Neural CF recommendation\n2. A Tale of Two Cities (Collins Classics) - Neural CF recommendation\n3. Reconstructing Amelia: A Novel - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.874437"
+    },
+    {
+      "user_id": "A25HYPL2XKQPZB",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation\n2. The Haunting of Hill House - Neural CF recommendation\n3. Frankenstein (Collins Classics) - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.874437"
+    },
+    {
+      "user_id": "A3LZGLA88K0LA0",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Haunting of Hill House - Neural CF recommendation\n2. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation\n3. The Call of the Wild with related readings - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.874437"
+    },
+    {
+      "user_id": "AKR6UK8O6DM6X",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Haunting of Hill House - Neural CF recommendation\n2. The Hound of the Baskervilles (Puffin Classics) - Neural CF recommendation\n3. Beautiful Ruins: A Novel - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.874437"
+    },
+    {
+      "user_id": "A3M6RVUVZOQZLB",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Call of the Wild with related readings - Neural CF recommendation\n2. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation\n3. The Haunting of Hill House - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.874437"
+    },
+    {
+      "user_id": "A2ZHH7AK83JB5G",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. Frankenstein (Collins Classics) - Neural CF recommendation\n2. The Haunting of Hill House - Neural CF recommendation\n3. Reconstructing Amelia: A Novel - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.874437"
+    },
+    {
+      "user_id": "A3NCIN6TNL0MGA",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Haunting of Hill House - Neural CF recommendation\n2. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation\n3. The Hound of the Baskervilles (Puffin Classics) - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.874437"
+    },
+    {
+      "user_id": "A3HJAIFRRFHUAB",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Haunting of Hill House - Neural CF recommendation\n2. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation\n3. Reconstructing Amelia: A Novel - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.874437"
+    },
+    {
+      "user_id": "A26JGAM6GZMM4V",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Haunting of Hill House - Neural CF recommendation\n2. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation\n3. Frankenstein (Collins Classics) - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.874437"
+    },
+    {
+      "user_id": "A2HVL790PBWYTU",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation\n2. American Gods - Neural CF recommendation\n3. The Catcher in the Rye (Modern Classics S.) - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.874437"
+    },
+    {
+      "user_id": "ASXW7UQXGMNJL",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation\n2. Reconstructing Amelia: A Novel - Neural CF recommendation\n3. The Haunting of Hill House - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.874437"
+    },
+    {
+      "user_id": "A3GQKB1KF0CRPE",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Haunting of Hill House - Neural CF recommendation\n2. The Hobbit - Neural CF recommendation\n3. Beautiful Ruins: A Novel - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.874437"
+    },
+    {
+      "user_id": "A1TPW86OHXTXFC",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. Claudius The God - Neural CF recommendation\n2. A confederacy of dunces - Neural CF recommendation\n3. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.874437"
+    },
+    {
+      "user_id": "A1RKD1I8MW1LG6",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Haunting of Hill House - Neural CF recommendation\n2. For Whom the Bell Tolls - Neural CF recommendation\n3. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.874437"
+    },
+    {
+      "user_id": "AJRFZ0VZ0LD26",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation\n2. Watership Down (Perennial Classics) - Neural CF recommendation\n3. For Whom the Bell Tolls - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.874437"
+    },
+    {
+      "user_id": "A1LACH6MLQWZ",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Haunting of Hill House - Neural CF recommendation\n2. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation\n3. The Call of the Wild with related readings - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.874437"
+    },
+    {
+      "user_id": "AW3VZ5O895LRK",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Call of the Wild with related readings - Neural CF recommendation\n2. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation\n3. The Haunting of Hill House - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.890213"
+    },
+    {
+      "user_id": "ANCOMAI0I7LVG",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation\n2. The Haunting of Hill House - Neural CF recommendation\n3. The Call of the Wild with related readings - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.890213"
+    },
+    {
+      "user_id": "A3KY68OTSNHM3G",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation\n2. The Haunting of Hill House - Neural CF recommendation\n3. Fast Food Nation: The Dark Side of the All-American Meal - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.890213"
+    },
+    {
+      "user_id": "AKMEY1BSHSDG7",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Call of the Wild with related readings - Neural CF recommendation\n2. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation\n3. The Haunting of Hill House - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.890213"
+    },
+    {
+      "user_id": "A1TT5T47AVDDBM",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation\n2. The Call of the Wild with related readings - Neural CF recommendation\n3. The Haunting of Hill House - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.890213"
+    },
+    {
+      "user_id": "A3N8RZSXKN1OR2",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Call of the Wild with related readings - Neural CF recommendation\n2. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation\n3. Reconstructing Amelia: A Novel - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.894203"
+    },
+    {
+      "user_id": "AUGABW5AS2OXM",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Haunting of Hill House - Neural CF recommendation\n2. The Call of the Wild with related readings - Neural CF recommendation\n3. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.894203"
+    },
+    {
+      "user_id": "A2SQJPUCZNHMZE",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Haunting of Hill House - Neural CF recommendation\n2. Reconstructing Amelia: A Novel - Neural CF recommendation\n3. The Hobbit - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.894203"
+    },
+    {
+      "user_id": "A1TK6R2JSC97HL",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. Fast Food Nation: The Dark Side of the All-American Meal - Neural CF recommendation\n2. For Whom the Bell Tolls - Neural CF recommendation\n3. Frankenstein (Collins Classics) - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.894203"
+    },
+    {
+      "user_id": "A35DI28HRSEEP6",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation\n2. The Haunting of Hill House - Neural CF recommendation\n3. A confederacy of dunces - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.894203"
+    },
+    {
+      "user_id": "A9Q28YTLYREO7",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Haunting of Hill House - Neural CF recommendation\n2. For Whom the Bell Tolls - Neural CF recommendation\n3. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.894203"
+    },
+    {
+      "user_id": "A31TVT9DSU5HL1",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. Frankenstein (Collins Classics) - Neural CF recommendation\n2. The Haunting of Hill House - Neural CF recommendation\n3. The Corrections - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.894203"
+    },
+    {
+      "user_id": "A3AVJCB1ZD6ZY5",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Haunting of Hill House - Neural CF recommendation\n2. Magician's Nephew - Folio Society Hardcover - Neural CF recommendation\n3. The Hound of the Baskervilles (Puffin Classics) - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.894203"
+    },
+    {
+      "user_id": "A2JP0URFHXP6DO",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Haunting of Hill House - Neural CF recommendation\n2. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation\n3. The Call of the Wild with related readings - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.894203"
+    },
+    {
+      "user_id": "A3RNP5X8ZGZIEI",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation\n2. Dead Wrong (Joanna Brady Mysteries, Book 12) - Neural CF recommendation\n3. Given Day Unabridged CD, The - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.894203"
+    },
+    {
+      "user_id": "A2CW9IQAPFEYLM",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation\n2. For Whom the Bell Tolls - Neural CF recommendation\n3. The Haunting of Hill House - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.894203"
+    },
+    {
+      "user_id": "A2E3F04ZK7FG66",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Haunting of Hill House - Neural CF recommendation\n2. Frankenstein (Collins Classics) - Neural CF recommendation\n3. The Corrections - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.894203"
+    },
+    {
+      "user_id": "AIO247KHD2O40",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Call of the Wild with related readings - Neural CF recommendation\n2. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation\n3. The Son of Neptune (Heroes of Olympus Book 2) - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.894203"
+    },
+    {
+      "user_id": "AR2DE47VCY1C8",
+      "source_domain": "Books",
+      "target_domain": "Books",
+      "recommendations": "1. The Haunting of Hill House - Neural CF recommendation\n2. All Quiet on the Western Front (with Related Readings) - Neural CF recommendation\n3. Reconstructing Amelia: A Novel - Neural CF recommendation",
+      "success": true,
+      "model_type": "NCF",
+      "timestamp": "2025-05-30T11:21:24.906504"
+    }
+  ]
+}
