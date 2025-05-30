@@ -1,0 +1,196 @@
+# LLAMAREC Production Dependencies
+# Core dependencies for cross-domain recommendation system
+
+# Core Python Libraries
+numpy==1.24.4                     # Numerical computing
+pandas==2.1.4                     # Data manipulation and analysis
+scipy==1.11.4                     # Scientific computing
+
+# Machine Learning & Deep Learning
+scikit-learn==1.3.2               # Machine learning library
+torch==2.1.2                      # PyTorch deep learning framework
+torchvision==0.16.2               # Computer vision for PyTorch
+torchaudio==2.1.2                 # Audio processing for PyTorch
+
+# Natural Language Processing
+transformers==4.36.2              # Hugging Face transformers
+tokenizers==0.15.0                # Fast tokenizers
+sentence-transformers==2.2.2      # Sentence embeddings
+
+# HTTP Requests & API Integration
+requests==2.31.0                  # HTTP library
+urllib3==2.1.0                    # HTTP client
+httpx==0.26.0                     # Modern async HTTP client
+
+# Data Processing & File Handling
+PyYAML==6.0.1                     # YAML parser
+toml==0.10.2                      # TOML parser
+jsonlines==4.0.0                  # JSON Lines format support
+openpyxl==3.1.2                   # Excel file support
+xlrd==2.0.1                       # Excel file reading
+
+# Visualization & Plotting
+matplotlib==3.8.2                 # Plotting library
+seaborn==0.13.0                   # Statistical visualization
+plotly==5.17.0                    # Interactive plotting
+
+# Progress Bars & CLI
+tqdm==4.66.1                      # Progress bars
+click==8.1.7                      # Command line interface
+colorama==0.4.6                   # Cross-platform colored terminal text
+
+# Statistical Analysis
+statsmodels==0.14.1               # Statistical modeling
+pingouin==0.5.4                   # Statistical analysis
+scipy==1.11.4                     # Statistical functions (already listed above)
+
+# Data Validation & Type Checking
+pydantic==2.5.2                   # Data validation using Python type hints
+typing-extensions==4.9.0          # Typing extensions for older Python
+
+# Configuration Management
+python-dotenv==1.0.0              # Load environment variables from .env
+configparser==6.0.0               # Configuration file parser
+
+# Logging & Utilities
+loguru==0.7.2                     # Advanced logging
+rich==13.7.0                      # Rich text and beautiful formatting
+
+# Date & Time Handling
+python-dateutil==2.8.2            # Date parsing and manipulation
+pytz==2023.3                      # Timezone definitions
+
+# Parallel Processing
+joblib==1.3.2                     # Parallel computing
+multiprocessing-logging==0.3.4    # Logging for multiprocessing
+
+# Memory Management & Performance
+psutil==5.9.6                     # System and process utilities
+memory-profiler==0.61.0           # Memory usage monitoring
+
+# Text Processing & NLP Utilities
+nltk==3.8.1                       # Natural language processing
+spacy==3.7.2                      # Advanced NLP
+textblob==0.17.1                  # Simple text processing
+
+# Recommendation System Specific
+implicit==0.7.2                   # Collaborative filtering algorithms
+surprise==1.1.3                   # Recommendation system library
+lightfm==1.17                     # Hybrid recommendation algorithms
+
+# Data Storage & Database
+sqlite3==0.0.0                    # SQLite database (built-in)
+sqlalchemy==2.0.25                # SQL toolkit and ORM
+h5py==3.10.0                      # HDF5 file format support
+
+# Network & Web Utilities
+beautifulsoup4==4.12.2            # HTML/XML parsing
+lxml==4.9.4                       # XML/HTML processing
+fake-useragent==1.4.0             # Random user agent generation
+
+# Cryptography & Security
+cryptography==41.0.8              # Cryptographic recipes
+hashlib==0.0.0                    # Hashing algorithms (built-in)
+
+# File System & Path Handling
+pathlib==1.0.1                    # Object-oriented filesystem paths
+glob2==0.7                        # Extended glob functionality
+watchdog==3.0.0                   # File system event monitoring
+
+# JSON & Data Serialization
+orjson==3.9.10                    # Fast JSON library
+ujson==5.9.0                      # Ultra fast JSON encoder/decoder
+pickle==0.0.0                     # Object serialization (built-in)
+
+# Mathematical & Scientific Computing
+sympy==1.12                       # Symbolic mathematics
+numba==0.58.1                     # JIT compiler for numerical functions
+
+# Time Series & Advanced Analytics
+pandas-datareader==0.10.0         # Remote data access for pandas
+statsmodels==0.14.1               # Statistical modeling (already listed)
+
+# Image Processing (for potential multi-modal features)
+Pillow==10.1.0                    # Python Imaging Library
+opencv-python==4.8.1.78           # Computer vision library
+
+# GPU Support (optional, for CUDA-enabled systems)
+# Uncomment if CUDA is available
+# torch-audio==2.1.2+cu118
+# torch-vision==0.16.2+cu118
+
+# Compression & Archive Handling
+zipfile==0.0.0                    # ZIP archive handling (built-in)
+tarfile==0.0.0                    # TAR archive handling (built-in)
+gzip==0.0.0                       # GZIP compression (built-in)
+
+# Random & Sampling
+random==0.0.0                     # Random number generation (built-in)
+secrets==0.0.0                    # Secure random generation (built-in)
+
+# System Integration
+subprocess==0.0.0                 # Subprocess management (built-in)
+os==0.0.0                         # Operating system interface (built-in)
+sys==0.0.0                        # System-specific parameters (built-in)
+
+# Data Format Support
+csv==1.0                          # CSV file reading/writing (built-in)
+json==2.0.9                       # JSON encoder/decoder (built-in)
+xml==0.0.0                        # XML processing (built-in)
+
+# Regex & String Processing
+re==2.2.1                         # Regular expressions (built-in)
+string==0.0.0                     # String constants and templates (built-in)
+
+# Mathematical Constants & Functions
+math==0.0.0                       # Mathematical functions (built-in)
+statistics==0.0.0                 # Statistical functions (built-in)
+
+# Concurrent Programming
+threading==0.0.0                  # Thread-based parallelism (built-in)
+asyncio==3.4.3                    # Asynchronous I/O (built-in)
+concurrent.futures==0.0.0         # High-level async interface (built-in)
+
+# Error Handling & Debugging
+traceback==0.0.0                  # Stack trace extraction (built-in)
+warnings==0.0.0                   # Warning control (built-in)
+
+# Package Management & Installation
+pip==23.3.2                       # Package installer
+setuptools==69.0.3                # Build system
+wheel==0.42.0                     # Built-package format
+
+# Version Information
+# Python 3.8+ required for compatibility with all dependencies
+
+# Optional Dependencies for Specific Features
+# Uncomment as needed:
+
+# For advanced text processing
+# textstat==0.7.3                 # Text statistics
+# wordcloud==1.9.2                # Word cloud generation
+
+# For advanced visualization
+# bokeh==3.3.2                    # Interactive visualization
+# altair==5.2.0                   # Statistical visualization grammar
+
+# For database connectivity
+# psycopg2-binary==2.9.9          # PostgreSQL adapter
+# pymongo==4.6.1                  # MongoDB driver
+# redis==5.0.1                    # Redis client
+
+# For web scraping (if needed for data collection)
+# scrapy==2.11.0                  # Web scraping framework
+# selenium==4.16.0                # Web browser automation
+
+# For advanced ML features
+# xgboost==2.0.3                  # Gradient boosting
+# catboost==1.2.2                 # Gradient boosting
+# lightgbm==4.2.0                 # Gradient boosting
+
+# For distributed computing
+# dask==2023.12.1                 # Parallel computing
+# ray==2.9.1                      # Distributed computing
+
+# Note: Some packages marked as built-in (version 0.0.0) are part of Python's standard library
+# and don't need explicit installation, but are listed for completeness and documentation

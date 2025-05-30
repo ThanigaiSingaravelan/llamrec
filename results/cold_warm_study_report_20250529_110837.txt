@@ -1,0 +1,70 @@
+================================================================================
+COLD vs WARM USER COMPARATIVE STUDY REPORT
+================================================================================
+Generated: 2025-05-29 11:08:37
+Model: llama3:8b
+Temperature: 0.7
+Total Scenarios: 4
+Total Users: 34
+Total Prompts: 39
+
+SCENARIO RESULTS
+----------------------------------------
+
+NEW USER - BOOKS TO MOVIES
+  User Type: cold
+  Success Rate: 100.0%
+  Avg Quality: 3.68/5.0
+  Avg Response Time: 15.92s
+  Users Tested: 9
+
+NEW USER - MOVIES TO BOOKS
+  User Type: cold
+  Success Rate: 100.0%
+  Avg Quality: 3.73/5.0
+  Avg Response Time: 18.80s
+  Users Tested: 10
+
+EXPERT READER - BOOKS TO MOVIES
+  User Type: warm
+  Success Rate: 100.0%
+  Avg Quality: 3.68/5.0
+  Avg Response Time: 17.35s
+  Users Tested: 10
+
+MOVIE EXPERT - MOVIES TO BOOKS
+  User Type: warm
+  Success Rate: 100.0%
+  Avg Quality: 3.79/5.0
+  Avg Response Time: 16.99s
+  Users Tested: 10
+
+COMPARATIVE ANALYSIS
+----------------------------------------
+
+COLD USERS (19 samples):
+  Avg Quality: 3.71
+  Avg Response Time: 17.44s
+  Avg User Interactions: 9.7
+
+WARM USERS (20 samples):
+  Avg Quality: 3.74
+  Avg Response Time: 17.17s
+  Avg User Interactions: 331.2
+
+DIFFERENCES (Warm - Cold):
+  Quality: +0.03
+  Response Time: -0.27s
+  User Experience: +321.5 interactions
+
+STATISTICAL TEST:
+  T-statistic: -0.275
+  P-value: 0.7848
+  Result: Not significant
+
+KEY FINDINGS
+----------------------------------------
+- Quality difference between cold and warm users is minimal
+- Processing time is similar for both user types
+
+================================================================================
