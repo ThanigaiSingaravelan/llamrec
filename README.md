@@ -343,7 +343,7 @@ If you use LLAMAREC in your research, please cite our work:
     author={Thanigai Singaravelan Senthil Kumar}
     supervised = {Dr Aboozar Taherkhani}
     year={2025},
-    note={Available at: https://github.com/yourusername/llamarec}
+    note={Available at: https://github.com/ThanigaiSingaravelan/llam2}
 }
 ```
 
