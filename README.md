@@ -3,6 +3,8 @@
 
 LLAMAREC is a comprehensive research framework that leverages Large Language Models (LLMs) to perform cross-domain recommendations. The system addresses the challenge of recommending products across different categories by using the reasoning capabilities of LLMs to bridge preference patterns between domains like Books, Movies, Music, and more.
 
+
+
 ##  Key Features
 
 - **Cross-Domain Intelligence**: Transfer user preferences between Books, Movies, Music, and TV shows
@@ -12,6 +14,7 @@ LLAMAREC is a comprehensive research framework that leverages Large Language Mod
 - **Comprehensive Evaluation**: Rigorous metrics including Precision@K, Recall@K, NDCG, diversity, and novelty
 - **Baseline Comparisons**: Neural Collaborative Filtering, content-based, and hybrid approaches
 - **Statistical Analysis**: Advanced experimental designs with significance testing
+- **API Testing**: After installing Ollama and the model, test with ollama_api.py to verify the connection is working properly
 
 ## System Architecture
 
@@ -375,3 +378,4 @@ If you use LLAMAREC in your research, please cite our work:
 ---
 
 **LLAMAREC** - Bridging domains through intelligent language model reasoning
+
